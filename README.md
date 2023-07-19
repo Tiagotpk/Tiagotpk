@@ -3,13 +3,12 @@ Tiagotpk/Tiagotpk is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Oi 👋, Eu sou o Tiago! (@Tiagotpk)</h1>
-<h3 align="center">Apaixonado por cerveja, entretanto amando o mundo da programação!</h3>
+<h3 align="center">Apaixonado por cerveja e programação!!</h3>
 
-- 🌱 Atualmente estou aprendendo sobre: **HTML, CSS, JavaScript, Python e pretendo estudar mais sobre Flutter entre outros.**
+- 🌱 Tecnologias e Frameworks: **HTML, CSS, JavaScript, Python, TypeScript e Angular.**
+- 👀 Banco de Dados:  **MySql**
 
 - 👨‍💻 Todos os meus projetos estão em: [https://github.com/Tiagotpk](https://github.com/Tiagotpk)
-
-- 💬 Me pergunte sobre: **JavaScript e Python**
 
 - 📫 Você consegue me contactar através deste email: **ttrpk@hotmail.com**
 
