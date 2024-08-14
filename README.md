@@ -36,7 +36,6 @@ Tenho conhecimento em algumas tecnologias que já trabalho há algum tempo e ela
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tiagotpk&theme=github-light&background=fff&border=1ed760&dates=000)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiagotpk&theme=transparent&bg_color=000&border_color=1ed760&show_icons=true&icon_color=1ed760&title_color=1ed760&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tiagotpk&theme=github-light&background=fff&border=1ed760&dates=000)](https://git.io/streak-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiagotpk&theme=transparent&bg_color=000&border_color=1ed760&show_icons=true&icon_color=1ed760&title_color=1ed760&text_color=FFF)
 <!-- ### Linguagens dos meus Projetos
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tiagotpk&layout=compact&bg_color=fff&border_color=30A3DC&title_color=1ed760&text_color=000) -->
