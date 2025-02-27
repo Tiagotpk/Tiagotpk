@@ -1,13 +1,10 @@
 # TIAGO HENRIQUE DOS REIS
 
-Formiga - Minas Gerais
-
-30 anos
-
 
 ## Sobre mim
 
-Estudo programação desde meados de 2023 e atualmente faço faculdade de Análise e Desenvolvimento de Sistemas. Desejo desenvolver minhas habilidades para me tornar um desenvolvedor Fullstack, pois vejo na tecnologia uma oportunidade para crescimento tanto pessoal quanto profissional. 
+Estudo programação desde meados de 2023 e atualmente curso Análise e Desenvolvimento de Sistemas pela UNICESUMAR e duas Pós Graduações pela Universidade Anhanguera uma de Análise e Desenvolvimento de Sistemas e outra de Análise, Projeto e Gerência de Sistemas.
+Abaixo seguem algumas das tecnologias das quais utilizo e tenho experiência.
 
 
 
