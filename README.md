@@ -33,5 +33,5 @@ Tenho conhecimento em algumas tecnologias que já trabalho há algum tempo e ela
 
 
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiagotpk&theme=transparent&bg_color=000&border_color=1ed760&show_icons=true&icon_color=1ed760&title_color=1ed760&text_color=FFF)
+
 
