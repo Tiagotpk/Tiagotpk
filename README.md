@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-Estudo programação desde meados de 2023 e atualmente curso Análise e Desenvolvimento de Sistemas pela UNICESUMAR e duas Pós Graduações pela Universidade Anhanguera uma de Análise e Desenvolvimento de Sistemas e outra de Análise, Projeto e Gerência de Sistemas.
+Estudo programação desde meados de 2023 e atualmente formado em Análise e Desenvolvimento de Sistemas pela UNICESUMAR e tenho duas Pós Graduações pela Universidade Anhanguera uma de Análise e Desenvolvimento de Sistemas e outra de Análise, Projeto e Gerência de Sistemas.
 Abaixo seguem algumas das tecnologias das quais utilizo e tenho experiência.
 
 
@@ -18,16 +18,13 @@ Abaixo seguem algumas das tecnologias das quais utilizo e tenho experiência.
 ### Habilidades e Ferramentas
 
 Tenho conhecimento em algumas tecnologias que já trabalho há algum tempo e elas são: <br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
